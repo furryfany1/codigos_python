@@ -1,0 +1,22 @@
+(cap02)
+a funcao (range) e exclusivo, significa que se voce quiser uma lista de 1 a 10, voce tera que colocar (range(1.11))
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+(cap03)
+pseudo codigo, uma forma de intender a programacao
+ele se basea na ideia de voce escrever um texto com os passos de como resolver um problema, e entao fazer esses passos na programacao, da mesma maneira que esta escrita no texto
+
+licao 1 
+(pediria para o usuario me indicar qual das 4 operacoes ele gostaria de fazer
+depois eu peco para me indicar o primeiro valor que seriam usados no calculo
+e depois pedirei o segundo valor
+apos isso, pegarei esses valores e aplicaria o calculo celecionado
+e imprimiria o resultado na tela)
+
+licao 2 (
+1 pegue a lista de valores numericos que teremos que organizar
+2 identifique se esse valor e maior ou menor que o proximo valor, se for maior, troque de lugar com o proximo valor, se nao for, permanessa assim
+3repita esse processo com todos os numeros ate que todos eles estejam organizados
+4 iprima a lista na tela)
+
